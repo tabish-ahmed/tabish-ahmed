@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tabish-ahmed
-- 👀 I’m interested in web development using Javascript, Angular, Typescript, HTML, CSS
+- 👀 I’m interested in web development using Angular, Javascript, Typescript, HTML, CSS
 - 🌱 I’m currently learning Nodejs and Reactjs
 - 📫 How to reach me - +91 7065946898 or tabishahmed5@gmail.com
 
